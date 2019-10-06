@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-
+"What's your name?".question?
   end
 
   def exclamation?
