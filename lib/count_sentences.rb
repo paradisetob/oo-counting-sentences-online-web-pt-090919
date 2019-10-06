@@ -11,7 +11,7 @@ class String
   end
 
   def exclamation?
-
+"Hi, my name is Sophie!".exclamation?
   end
 
   def count_sentences
